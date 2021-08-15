@@ -1,2 +1,2 @@
 # electronics
-a selection of tasks from electronics classes
+A selection of tasks from electronics classes
